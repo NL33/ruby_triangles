@@ -1,0 +1,1 @@
+Basic program written in Ruby: User enters length of triangle sides, and program determines whether triangle is equilateral, isosceles, scalene, or not a triangle.
